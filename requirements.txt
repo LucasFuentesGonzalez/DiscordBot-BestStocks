@@ -1,4 +1,4 @@
 # Librerías necesarias para el proyecto
+pandas
 discord.py
 python-dotenv
-pandas
