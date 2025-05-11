@@ -1,0 +1,4 @@
+# Librerías necesarias para el proyecto
+discord.py
+python-dotenv
+pandas
